@@ -2,4 +2,4 @@ some
 input
 separated
 by
-newline
+newline 
